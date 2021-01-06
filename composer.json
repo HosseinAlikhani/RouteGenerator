@@ -1,0 +1,13 @@
+{
+    "name": "d3cr33/route-generator",
+    "description": "generate route for PHP and nodejs application",
+    "type": "composer-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HosseinAlikhani",
+            "email": "poshtiban.esteam@gmail.com"
+        }
+    ],
+    "require": {}
+}
