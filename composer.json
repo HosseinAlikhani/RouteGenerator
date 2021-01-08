@@ -9,5 +9,13 @@
             "email": "poshtiban.esteam@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "config": {
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
 }
